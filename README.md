@@ -91,7 +91,7 @@ The dashboard provides insights across multiple dimensions:
 
 ## 👤 Author
 **Sucharita Samantaray**  
-Data Analyst | Computer Science Student  
+Data Analyst | Computer Engineering Student  
 
 📌 This project is part of my data analytics learning journey and portfolio.
 
